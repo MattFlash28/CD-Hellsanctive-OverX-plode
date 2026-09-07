@@ -10,7 +10,7 @@ Expected From Complex Invasion,With The Additions Of Other Vehicles Like A Helic
 # Monster Roster:
 * Realm667 (Doom,Strife,Hexen,Other Styles).
 * Canon Doom Franchise Monsters (Including RPG,64,Eternal,Dark Ages,Doom 4 1.0(Cancelled),Etc.).
-* Original Monsters From Scratch (Khangoyle(Boss),Therizidemon(Melee Cyberdemon),Soulnado Priest(Boss),Necrophyseter(Archvile Variant),Combo-Man(Fusion Enemy),SpiderClawer(Melee SpiderMastermind),Etc.).
+* Original Monsters From Scratch (Khangoyle(Boss),Therizidemon(Melee Cyberdemon),Soulnado Priest(Boss),Necrophyseter(Archvile Variant),Combo-Man,Etc.).
 * Wolfenstein Enemies(Including Dr. Schabbs And The Infamous German Dictator).
 * Hell From Earth(Human) Enemies By NomakhThunder.
 * Russian Mercenaries Enemies By RastaManGames.
