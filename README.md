@@ -8,14 +8,19 @@ As Expected From CF,Monster Runes To Play As Barons,Revenants,Cyberdemons,Cacode
 # Included Vehicles:
 Expected From Complex Invasion,With The Additions Of Other Vehicles Like A Helicopter And Support For Marines To Use Them.
 # Monster Roster:
+* Complex Doom Monsters(Including CF Additions)
 * Realm667 (Doom,Strife,Hexen,Other Styles).
-* Canon Doom Franchise Monsters (Including RPG,64,Eternal,Dark Ages,Doom 4 1.0(Cancelled),Etc.).
-* Original Monsters From Scratch (Khangoyle(Boss),Therizidemon(Melee Cyberdemon),Soulnado Priest(Boss),Necrophyseter(Archvile Variant),Combo-Man,Etc.).
-* Wolfenstein Enemies(Including Dr. Schabbs And The Infamous German Dictator).
+* Canon Doom Franchise Monsters (Including RPG,Legacy Of Rust,64,Eternal,Dark Ages,Doom 4 1.0(Cancelled),Etc.).
+* Original Monsters From Scratch Made By Devs And Members Alike.
+* Wolfenstein Enemies(CF Based).
 * Hell From Earth(Human) Enemies By NomakhThunder.
 * Russian Mercenaries Enemies By RastaManGames.
 * Zdoom Monster Pack By Alexander Adrian Vargas.
-* Sunmadcat's Monsters By Sunmadcat
+* Sunmadcat's Monsters By Sunmadcat.
+* Legendary To Zamasu Monsters.
+* Cosmifernix Monsters(New Tier After Zamasu)
+* Real Icon Of Sin(Intended To Replace The Doom 2 Counterpart Similar To Brutal Doom,Design Will Be A Mix Of Brutal Doom With Afterdoom For Immversive Gameplay).
+* Community Monster Packs By Various Authors.
 # Download
 Coming Soon...
 # Future Plans
